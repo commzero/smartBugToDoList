@@ -1,0 +1,57 @@
+{
+  "tasks": [
+    {
+      "id": 4,
+      "name": "sleeping",
+      "taskDesc": "sleeping at 3 pm"
+    },
+    {
+      "id": 5,
+      "name": "cleaning",
+      "taskDesc": "cleaning at 6 pm"
+    },
+    {
+      "id": 6,
+      "name": "Coding",
+      "taskDesc": "9am"
+    },
+    {
+      "id": 7,
+      "name": "teach",
+      "taskDesc": "teaching Angular 6pm"
+    },
+    {
+      "id": 8,
+      "name": "sfdgfdg",
+      "taskDesc": "fdgfdg"
+    },
+    {
+      "id": 9,
+      "name": "",
+      "taskDesc": "",
+      "tasks": "",
+      "options": [
+        "4",
+        "5",
+        "6"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "username": "Mohamed",
+      "password": 123456,
+      "token": "sdufdsiufjdsfojdsoiufsddsfdsf"
+    },
+    {
+      "username": "Ahmed",
+      "password": 111111,
+      "token": "fdsgfdhggfdjhgfdjh"
+    },
+    {
+      "username": "admin",
+      "password": "admin",
+      "token": "dsfsfhdjgfjfdgfdgfdg"
+    }
+  ]
+}
